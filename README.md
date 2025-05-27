@@ -1,4 +1,4 @@
-Repository Name: stateless-encryption-proto (or any name you prefer)
+Repository Name: stateless-encryption-proto 
 
 Description (for GitHub repo):
 
