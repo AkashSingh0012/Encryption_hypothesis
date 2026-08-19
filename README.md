@@ -4,8 +4,6 @@ Description (for GitHub repo):
 
 > A hypothetical encryption protocol designed to be stateless, untraceable, and self-evolving.
 
-This project introduces a novel approach to encryption where each message dynamically evolves its encoding dictionary, ensuring that ciphertext is non-repetitive and decoding logic is never reused. The system minimizes traceability by avoiding shared states and by embedding logic reconstruction capabilities into each transmission.
-
 Core Features:
 
 Stateless encryption with per-message dictionary mutation
